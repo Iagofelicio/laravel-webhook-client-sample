@@ -15,6 +15,10 @@ After running ```composer install``` do the following steps:
 
 3. Checkout ```app/Webhook/SimpleExample1/``` to see the implemented code and test it.
 
-# Postman Request examples
+# Request examples
 
-![Headers](https://imgur.com/rNWJkGe)
+Request Header: https://imgur.com/rNWJkGe
+
+Request Body: https://imgur.com/Twb5xu6
+
+DB registry: https://imgur.com/NgEqSsf
