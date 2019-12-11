@@ -11,6 +11,6 @@ After running ```composer install``` do the following steps:
 
 1. This simple project intends to show a possibile implementation of https://github.com/spatie/laravel-webhook-client. All the credits to spatie. 
 
-2. Be aware that you might need to update the file app/Http/Middleware/VerifyCsrfToken.php, as I did in this sample.
+2. Be aware that you might need to update the file ```app/Http/Middleware/VerifyCsrfToken.php```, as I did in this sample.
 
-3. Checkout app/Webhook/SimpleExample1 to see the implemented code and test it.
+3. Checkout ```app/Webhook/SimpleExample1/``` to see the implemented code and test it.
