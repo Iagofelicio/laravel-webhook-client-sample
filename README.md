@@ -14,3 +14,7 @@ After running ```composer install``` do the following steps:
 2. Be aware that you might need to update the file ```app/Http/Middleware/VerifyCsrfToken.php```, as I did in this sample.
 
 3. Checkout ```app/Webhook/SimpleExample1/``` to see the implemented code and test it.
+
+# Postman Request examples
+
+![Headers](https://imgur.com/rNWJkGe)
